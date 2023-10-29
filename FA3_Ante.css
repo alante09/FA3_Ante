@@ -1,0 +1,62 @@
+<!-- 
+
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+-->
+
+<html>
+     <head>
+         <title> Formative Assessment 3 </title>
+    </head>
+<body>
+    <style>
+        body{
+            background-image:url(https://www.techrepublic.com/wp-content/uploads/2023/07/tr71123-ai-art.jpeg);
+            background-repeat: no-repeat;
+            background-position:center;
+            box-sizing:border-box;
+
+        }
+        h1{
+            text-align:center;
+            background-color:#00cccc;
+            border:2px blue dotted;
+            font-family:Papyrus;
+            padding-top:10px;
+            padding-bottom:10px;
+            padding-right:15px;
+            padding-left:15px;
+            margin-bottom:20px;
+            width:250px;
+            margin-left:auto;
+            margin-right:auto;
+            
+        }
+        p{
+            background-color:hsl(189, 99%, 34%);
+            border:3px black double;
+            font-style:italic;
+            padding:20px;
+            text-align:justify;
+            width:500px;
+            margin-left:auto;
+            margin-right:auto;
+        }
+        span{
+            font-style:bold;
+            color:rgb(153, 255, 255);
+            margin:2px 5px;
+
+            
+        }
+    </style>
+   <h1> Office Productivity </h1>
+        <p> The book contains <span>MS Word 2010, MS Excel 2010, MS PowerPoint 2010 and MS Outlook 2010 </span>. The book aims to educate students in creating documents, worksheets, presentations, and organization using different software that may work relatively. </p>
+</body>
+</html>
+
+
+
